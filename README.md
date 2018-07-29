@@ -5,7 +5,7 @@ Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
 ### Features
 * Hinge, distance, spring, balljoint constraints
 * Inactivity Detector
-* Leightweight: Only GLM needed for the physics part
+* Leightweight: Only GLM and Eigen3 needed for the physics part
 * Android (OpenGL ES) and Desktop (OpenGL) demos provided
 
 ### Compile
