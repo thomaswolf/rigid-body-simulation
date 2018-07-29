@@ -24,13 +24,13 @@ make -j8
 ```
 
 ### Controls
-A / S / D / W for navigating
-1 / 2 / ... to change scene
-b / n / m to change render modes
-space / q / e to shoot objects 
-o to toggle debug mode
-p to pause & resume simulation
-esc to quit
+* A / S / D / W for navigating
+* 1 / 2 / ... to change scene
+* b / n / m to change render modes
+* space / q / e to shoot objects
+* o to toggle debug mode
+* p to pause & resume simulation
+* esc to quit
 
 
 
