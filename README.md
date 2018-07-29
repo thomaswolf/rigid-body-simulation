@@ -1,6 +1,10 @@
 ### About
-A header only constraint based rigid body physics engine developed during the Physically Based Simulation lecture at ETH by 
+A header only Constraint Based Rigid Body Physics Engine developed during the Physically Based Simulation lecture at ETH 2016 by 
 Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
+
+### Demo
+[Video](https://youtu.be/_YkQuraMObo)
+[Android App](https://play.google.com/store/apps/details?id=com.lugalabs.phyiscsim)
 
 ### Features
 * Hinge, distance, spring, balljoint constraints
