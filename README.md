@@ -6,11 +6,10 @@ Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
 * [Video](https://youtu.be/_YkQuraMObo)
 * [Android App](https://play.google.com/store/apps/details?id=com.lugalabs.phyiscsim)
 
-![Screenshot 1](images/image1.png =250x)
-![Screenshot 2](images/image2.png =250x)
-![Screenshot 3](images/image3.png =250x)
-![Screenshot 4](images/image4.png =250x)
-![Screenshot 5](images/image5.png =250x)
+<img src="image1.png" alt="drawing" width="200px"/>
+<img src="image2.png" alt="drawing" width="200px"/>
+<img src="image3.png" alt="drawing" width="200px"/>
+<img src="image4.png" alt="drawing" width="200px"/>
 
 
 ### Features
