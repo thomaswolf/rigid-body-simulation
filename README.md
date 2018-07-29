@@ -6,6 +6,14 @@ Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
 * [Video](https://youtu.be/_YkQuraMObo)
 * [Android App](https://play.google.com/store/apps/details?id=com.lugalabs.phyiscsim)
 
+[![Video](http://img.youtube.com/vi/_YkQuraMObo/0.jpg)](http://www.youtube.com/watch?v=_YkQuraMObo)
+![Screenshot 1](images/image1.png)
+![Screenshot 2](images/image2.png)
+![Screenshot 3](images/image3.png)
+![Screenshot 4](images/image4.png)
+![Screenshot 5](images/image5.png)
+
+
 ### Features
 * Hinge, distance, spring, balljoint constraints
 * Inactivity Detector
