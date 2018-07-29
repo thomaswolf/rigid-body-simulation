@@ -1,0 +1,7 @@
+#version 330 core
+
+// we only want to calculate the depth map (gl_FragDepth = gl_FragCoord.z) with is done by Z-buffer testing
+void main()
+{ 
+
+} 
