@@ -1,5 +1,5 @@
 ### About
-A header only Constraint Based Rigid Body Physics Engine developed during the Physically Based Simulation [lecture](https://graphics.ethz.ch/teaching/simulation16/home.php) at ETH 2016 by 
+A header only Constraint Based Rigid Body Physics Engine developed during the [Physically Based Simulation lecture](https://graphics.ethz.ch/teaching/simulation16/home.php) at ETH 2016 by 
 Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
 
 ### Demo
