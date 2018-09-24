@@ -16,7 +16,7 @@ Thomas Wolf, Thomas Etterlin and Stephan Zehnder.
 ### Features
 * Hinge, distance, spring, balljoint constraints
 * Inactivity Detector
-* Leightweight: Only GLM and Eigen3 needed for the physics part
+* Lightweight: Only GLM and Eigen3 needed for the physics part
 * Android (OpenGL ES) and Desktop (OpenGL) demos provided
 
 ### Compile
@@ -25,7 +25,7 @@ git submodule init
 git submodule update
 mkdir build
 cd build
-cmake ..
+cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j8
 ```
 
